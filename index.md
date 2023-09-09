@@ -1,4 +1,3 @@
 ---
-<h2>Welcome to my blod
----
+<h2>Welcome to my blog
 
